@@ -1,0 +1,19 @@
+body {
+    background: url(./images/download\ \(40\).jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.clock {
+    font-size: 40px;
+    color: beige ;
+    padding: 50px 200px ;
+    background-color:  beige (255,255,255,0.3);
+    border-radius: 15px;
+    border: 1px solid grey (255,255,255,0.5);
+}
